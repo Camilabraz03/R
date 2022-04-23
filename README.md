@@ -1,2 +1,2 @@
 # R
-bla bla bla
+scripts, codes, cases, solutions and studies regarding R
